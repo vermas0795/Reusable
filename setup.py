@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='datapeek',
       version='0.1',
       description='A simple library for dealing with raw data.',
-      url='https://cds-adc-tfs.visualstudio.com/DefaultCollection/Digital%20Hub%20-%20India%20guild%20projects/_git/Re-usable%20Library-Test',
+      url='https://cds-adc-tfs.visualstudio.com/DefaultCollection/Digital%20Hub%20-%20India%20guild%20projects/_git/re-usable_python_library',
       author='Abhishek Verma',
       author_email='abhishek.verma@cdsazure.onmicrosoft.com',
       license='MIT',
